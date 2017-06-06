@@ -112,8 +112,11 @@ p {
   padding: 22px;
 }
 a {
-  text-decoration: none;
   color: #fff;
+  /*border: 1px solid #B4F6FF;
+  background: linear-gradient(to top, #000, #6B5D00);
+  border-radius: 50px;*/
+
 }
 a:hover {
   color: #FFFFB2;
